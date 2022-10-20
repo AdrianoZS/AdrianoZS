@@ -6,5 +6,5 @@ Hello! at the moment I'm working as full-stack on Outsystems platform in an e-co
 
 <details>
     <summary><h3>Adriano's Coding Journey</h3></summary>
-    I...
+        I...
 </details>
