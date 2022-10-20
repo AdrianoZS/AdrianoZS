@@ -1,5 +1,5 @@
 # Adriano Zandroski Soares
 
-**'Developer'**
+**'(Developer)'**
 
 --- 
